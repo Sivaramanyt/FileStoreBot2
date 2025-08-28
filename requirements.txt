@@ -1,0 +1,10 @@
+python-telegram-bot==20.7
+Flask==3.0.2
+pymongo==4.6.1
+motor==3.3.2
+dnspython==2.6.1
+requests==2.32.3
+pydantic==2.8.2
+cachetools==5.3.3
+itsdangerous==2.2.0
+gunicorn==22.0.0
