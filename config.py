@@ -1,7 +1,7 @@
 import os, json
 
 BOT_TOKEN = os.getenv("BOT_TOKEN", "8219734500:AAG3hD8fPirprlr4OZEYF4oLr09UVWr_e9s")
-BASE_URL = os.getenv("BASE_URL", "https://faint-allegra-rolexsir-7a1ec4b1.koyeb.app/")  # e.g. https://yourapp-org.koyeb.app
+BASE_URL = os.getenv("BASE_URL", "https://faint-allegra-rolexsir-7a1ec4b1.koyeb.app")  # e.g. https://yourapp-org.koyeb.app
 WEBHOOK_SECRET = os.getenv("WEBHOOK_SECRET", "")
 
 MONGO_URL = os.getenv("MONGO_URL", "mongodb+srv://Sivaraman444:Rama9789@cluster0.8lxln.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
